@@ -1,0 +1,5 @@
+opencv-python
+numpy
+# ultralytics (YOLOv8) is required ONLY for real-footage mode (--source).
+# Simulation mode (--simulate) runs without it.
+ultralytics
